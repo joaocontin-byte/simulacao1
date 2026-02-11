@@ -4,7 +4,7 @@ Logo aqui você pode inserir a Visão do Produto, que nada mais é do que uma de
 ## PROBLEMA 
 Aqui você pode especificar o problema ou situação que motiva a criação do produto
 
-## PÚVLICO 
+## PÚBLICO 
 Aqui você pode colocar o público, ou melhor, para quem o produto é direcionado
 
 ## OBJETIVO
